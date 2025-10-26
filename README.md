@@ -1,16 +1,17 @@
-## Hi there 👋
+<div id="title" align=center>
 
-<!--
-**TapirHeron/TapirHeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TapirHeron&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![bilibili](https://space.bilibili.com/170519473?spm_id_from=333.337.0.0)]
+
+![](https://img.shields.io/badge/喜欢-吃饭-yellow) 
+![](https://img.shields.io/badge/性格-开朗-red) 
+![](https://img.shields.io/badge/爱好-java-red)
+
+</div>
+
+![头像](image/avatar.jpg)
+
+![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
+
