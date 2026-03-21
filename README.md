@@ -20,7 +20,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,rust,golang,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 <p align="center">
     <a href="https://github.com/TapirHeron"><img src="https://img.shields.io/badge/GitHub-TapirHeron-blue?logo=github" alt="GitHub" title="GitHub" /></a>
